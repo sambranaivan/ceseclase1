@@ -1,1 +1,3 @@
-Clase 1 - Control de Version
+Clase 1
+
+Control de Versiones
